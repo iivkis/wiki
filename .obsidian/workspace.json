@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "014c0dc31e6bb9bd",
+        "id": "9d09ffb27e8fc351",
         "type": "tabs",
         "children": [
           {
-            "id": "7fbf6a446419a448",
+            "id": "b48daa360b8012a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go-patterns/Фабричный метод (Factory method).md",
-                "mode": "source",
+                "file": "go-patterns/Строитель (Builder, Collector).md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed9bea4fe18f9f13",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "go-patterns/Строитель (Builder, Collector).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "go-patterns/Строитель (Builder, Collector).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "go-patterns/Строитель (Builder, Collector).md"
+              }
             }
           }
         ],
@@ -152,10 +147,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4f2236f81656eb09",
+  "active": "b48daa360b8012a7",
   "lastOpenFiles": [
-    "go-patterns/Фабричный метод (Factory method).md",
     "go-patterns/Строитель (Builder, Collector).md",
+    "go-patterns/Фабричный метод (Factory method).md",
     "go-patterns/Адаптер (Adapter).md",
     "go-patterns/Абстрактная фабрика.md",
     "2023-01-24.md",
